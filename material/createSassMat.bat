@@ -7,6 +7,6 @@ ECHO ============================
 ECHO Sass building
 ECHO ============================
 
-cd "E:\My Program\Web\material css\material"
+cd "E:\My Program\Web\askMe\assets\css\material"
 sass --watch material.scss:material.css
 PAUSE
